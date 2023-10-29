@@ -1,9 +1,13 @@
 import './App.css';
-import ImageSlider from './components/ImageSlider';
-import { SliderData } from './components/SliderData';
+import Slider from './Components/Slider/Slider'
+
 
 function App() {
-  return <ImageSlider slides={SliderData} />;
+  return (
+    <>
+      <Slider />
+    </>
+  );
 }
 
 export default App;
