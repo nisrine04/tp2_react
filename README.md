@@ -1,4 +1,4 @@
-Calculator
+Image Slider
 ---
 <img src="./public/slider_imgs.png" width="50%" height="50%" />
 
